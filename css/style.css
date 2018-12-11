@@ -1,7 +1,6 @@
 body {
     margin: 0;
     background-image: linear-gradient(to bottom right, #82E263, #0A9A96);
-    background-size: 100%;
     font-family: "Helvetica";
     color: white;
 }
@@ -140,7 +139,44 @@ input::placeholder {
 }
 
 
+/*  PRODUCT EXPLANATION */
 
+/*.product-information {*/
+    /*color: #2F343A;*/
+    /*margin-top: 200px;*/
+    /*background-color: white;*/
+    /*position: relative;*/
+
+/*}*/
+
+/*.product-header p {*/
+     /*text-align: center;*/
+     /*font-size: 25px;*/
+     /*font-family: Geomanist, sans-serif;*/
+     /*padding: 20px;*/
+/*}*/
+
+
+
+/*.box {*/
+
+    /*border: 5px solid #2F343A ;*/
+    /*float: left;*/
+    /*margin: 15px 10px 20px 10px;*/
+    /*padding: 20px;*/
+/*}*/
+
+/*.box1 {*/
+
+/*}*/
+
+/*.box2 {*/
+
+/*}*/
+
+/*.box3 {*/
+
+/*}*/
 
 
 /* END */
